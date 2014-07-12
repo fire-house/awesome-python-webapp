@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-__author__ = 'Michael Liao'
+__author__ = 'Liao, revised by Fire House'
 
 '''
 Database operation module.
